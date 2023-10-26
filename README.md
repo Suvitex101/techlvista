@@ -1,2 +1,2 @@
-# techlvista
-front end development 
+# techverse
+Coding School
